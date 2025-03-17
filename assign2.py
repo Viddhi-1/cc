@@ -1,2 +1,2 @@
 print('Hello')
-print('TE')
+print('TEA50')
